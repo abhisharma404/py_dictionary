@@ -20,6 +20,7 @@ def translate(word):
     else:
         print("No such word found!")
 
+        #build error fixed
 word=input("Enter word you want to search for...: ")
 
 translate(word)
