@@ -1,7 +1,7 @@
 import json
 from difflib import get_close_matches
 
-# load the dictionary
+# load the dictionary json
 data=json.load(open("data.json"))
 
 def translate(word):
